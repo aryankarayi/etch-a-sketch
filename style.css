@@ -1,9 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Braah+One&display=swap');
 
+
+body {
+    display: flex;
+    flex-direction: column;
+}
 .title {
     font-family: Braah One;
     font-size: 70px;
     display: flex;
     justify-content: center;
     color: #333333;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    box-shadow: 0px 0px 10px;
 }
