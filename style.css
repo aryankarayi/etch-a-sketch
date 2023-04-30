@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Braah+One&display=swap');
+
+.title {
+    font-family: Braah One;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    color: #333333;
+}
